@@ -1,2 +1,5 @@
-# erbsland-unittest-example-lib
-A minimalistic example library to be tested by the `erbsland-unittest-example`. 
+# Erbsland UnitTest Example Library
+
+This minimalistic example library is part of the documentation of the *Erbsland UnitTest*.
+It has no purpose.
+
