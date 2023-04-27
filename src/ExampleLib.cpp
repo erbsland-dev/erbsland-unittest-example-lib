@@ -50,5 +50,13 @@ auto ExampleLib::isNamePalindrome() const noexcept -> bool {
 }
 
 
+auto ExampleLib::isEvenPalindrome() const -> bool {
+    if (!isNamePalindrome()) {
+        throw std::domain_error("The name is no palindrome.");
+    }
+    return getNameLength() % 2 == 0;
+}
+
+
 }
 
