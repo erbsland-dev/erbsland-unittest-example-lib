@@ -1,5 +1,9 @@
 # Erbsland UnitTest Example Library
 
-This minimalistic example library is part of the documentation of the *Erbsland UnitTest*.
+An example library.
+Part of the *Erbsland Unit Test* framework documentation.
 It has no purpose.
+
+- 👉 [Documentation](https://erbsland-dev.github.io/erbsland-unittest/)
+- 👉 [Erbsland Unit Test](https://github.com/erbsland-dev/erbsland-unittest)
 
